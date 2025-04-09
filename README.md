@@ -1,15 +1,9 @@
 # 👩🏻‍💻 Rafaela Boldt  
 
-<table>
-  <tr>
-    <td>
-      <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelaboldt&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br">
-    </td>
-    <td>
-      <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaboldt&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelaboldt&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br">
+  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaboldt&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9">
+</div>
 
 ## 🚀 Tecnologias  
 
